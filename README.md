@@ -1,4 +1,4 @@
-#### Project 4: TCGA RNA-seq Data Analysis (Data Science Version)
+#### Project 4: TCGA RNA-seq Data Analysis.
 
 Goal: Analyze gene expression differences between tumor and normal tissue samples from TCGA data using a pure Python "Data Science" approach. This method leverages Pandas for data manipulation and Seaborn for visualization, avoiding the complexity of multi-language pipelines (Bash/R).
 
